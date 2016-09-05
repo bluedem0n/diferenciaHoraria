@@ -1,0 +1,21 @@
+.reloj { 
+    width: 350px; 
+    height: 30px; 
+    padding: 5px 10px; 
+    border: 1px solid black; 
+    font: bold 1.5em dotum, "lucida sans", arial; 
+    text-align: center;
+    margin: 1em 3em 1em 1em; 
+}
+label{
+    margin-left: 8%;
+}
+
+.img-hora{
+    background-image: url("../img/mapa.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.text-color{
+    color: azure;
+}
